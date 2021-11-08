@@ -1,0 +1,22 @@
+Goodfellow et al. (2015)
+ - Fast Gradient Sign Method (FGSM)
+
+Papernot et al. (2015):
+ - Forward derivatives method for generating adversarial saliency maps
+
+Moosavi-Dezfooli et al. (2016):
+ - "DeepFool"
+
+Cisse et al. (2017):
+ - "Houdini"
+
+Kurakin et al. (2017) B:
+ - One-step Target Class method,
+ - Basic Iterative method
+ - Iterative Least-likely Class method
+
+Wiyatno & Xu (2018):
+ - Maximal Jacobian-based Saliency Map Attack
+
+Su et al. (2019):
+ - One-pixel perturbation attack based on differential evolution
