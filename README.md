@@ -19,6 +19,8 @@ The notebooks inside these folders will contain the code to load a pre-trained m
 Since the attacks are written inside jupyter notebooks, running them becomes very trivial.
 When all prerequisites as described above are met, and the folder structure is not modified, the code can be run by simply opening the notebook and running the code windows in order.
 
+Please note that some notebooks may not show some images inside the github rendered, viewing it in your local jupyter server should fix any issues.
+
 The `data` folder stores any used input images and the pre-trained models and/or their labels. 
 Additionally, the MNIST data set is stored here, so an MNIST model could be trained from the `JSMA`/`JSMA-M` folders in the `code` folder.
 An adversarially trained model is trained inside the mnist-FGSM notebook.
